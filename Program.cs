@@ -12,7 +12,6 @@ namespace Hello_World
         {
             Console.WriteLine("Hello Naspier!");
             Console.WriteLine("Hello World !!");
-            Console.WriteLine("Test !!");
         }
     }
 }
